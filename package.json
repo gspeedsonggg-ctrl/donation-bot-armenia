@@ -1,0 +1,19 @@
+{
+  "name": "donation-bot-armenia",
+  "version": "1.0.0",
+  "description": "Telegram donation bot for Armenian gamers",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["telegram", "bot", "donation", "gaming"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^4.12.3"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
